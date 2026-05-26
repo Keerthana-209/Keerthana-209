@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <strong>
-    <span style="font-size: 40px; color:"BLUE";"> Full Stack Developer </span>
+    <span style="font-size: 40px; color:"BLUE";"> Junior AI Developer </span>
   </strong>
 </h2>
 
@@ -13,7 +13,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.E. in Electronics and Communication Engineering  
+- 🎓 B.E. in Electronics and Communication Engineering
+- 🎯 Currently Working as Junior AI Developer
+- 🧑‍💻 Completed Internship as AI Automation Engineer
 - 🧑‍💻 Certified in Full Stack Development and Software testing
 - 🎯 Skilled in Java, Javascript, React, Spring Boot.
 ---
