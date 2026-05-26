@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software%20Testing-FA7E1E?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/N8N-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make.com-181717?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Automation & AI Tools-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
